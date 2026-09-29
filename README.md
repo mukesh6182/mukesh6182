@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mukesh 👋
 
-<!--
-**mukesh6182/mukesh6182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity | SOC | Network Security**
 
-Here are some ideas to get you started:
+Focused on security monitoring, network analysis, Linux, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+`Linux` `Networking` `Python` `Wireshark` `Nmap` `Git`
+
+## Interests
+
+SOC Operations · Threat Detection · Incident Response · Network Security · Web Security
+
+## Projects
+
+Cybersecurity labs, security tools, and hands-on projects.
